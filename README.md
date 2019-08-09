@@ -39,14 +39,14 @@ Move it out of jar-file in real life usage.
 
 ## Prove that it is working correctly
 
-Some tests were developed to prove program correct work.
+Some tests were developed to prove program work is correct.
 
 ### Test coverage
 
-| Element	| Missed Instructions	| Cov.	| Missed Branches	| Cov.	| Missed	| Cxty	| Missed	| Lines	| Missed	| Methods	| Missed	| Classes |
+| Element	| Instructions	| Cov.	| Branches	| Cov.	| Missed	| Cxty	| Missed	| Lines	| Missed	| Methods	| Missed	| Classes |
 | ---       | ---                   | ---   | ---               | ---   | ---       | ---   | ---       | ---   | ---       | ---       | ---       | ---     |
 | org.nameapi.thing.service.impl	| 142	| 100%	| 6	| 100%	| 0	| 12	| 0	| 37	| 0	| 9	| 0	| 1 |
 | org.nameapi.thing.service.impl.algo	| 112	| 100%	| 10	| 100%	| 0	| 15	| 0	| 30	| 0	| 10	| 0	| 3 |
-| org.nameapi.thing.service	| 34	| 100%		| n/a	| 0	| 1	| 0	| 4	| 0	| 1	| 0	| 1 |
+| org.nameapi.thing.service	| 34	| 100%		|  | n/a	| 0	| 1	| 0	| 4	| 0	| 1	| 0	| 1 |
 | Total	| 0 of 288	| 100%	| 0 of 16	| 100%	| 0	| 28	| 0	| 71	| 0	| 20	| 0	| 5 |
 
